@@ -1,2 +1,2 @@
-*.rs linguist-vendored=false
+* linguist-vendored=true
 *.rs linguist-detectable
