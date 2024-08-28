@@ -1,2 +1,1 @@
-* linguist-vendored=true
-*.rs linguist-detectable
+*.rs linguist-language=Rust linguist-detectable
