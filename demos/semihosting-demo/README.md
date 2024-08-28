@@ -16,7 +16,7 @@ Development board (target): WeAct Studio STM32F411CEU6 BlackPill v3.1
 HW debugger: ST-Link V2 
 ```
 
-<img src="../../img/hw-debugger-setup.jpg">
+<img src="img/hw-debugger-setup.jpg">
 
 *Black Pill development board with STM32 MCU connected to ST-Link V2 hardware debugger via SWD (serial wire debug) interface.*
 
