@@ -1,5 +1,5 @@
 [workspace]
-members = [
+members = [ "demos/blink-led",
     "demos/semihosting-demo",
 ]
 resolver = "2"
